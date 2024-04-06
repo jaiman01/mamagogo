@@ -14,7 +14,7 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/mamagogo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/mamagogo" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravjaiman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravjaiman01" height="30" width="40" /></a>
 <a href="https://medium.com/@gauravjaiman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gauravjaiman1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/codegogobhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/codegogobhai/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codegogobhai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/codegogobhai/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/vU8xqdeH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vU8xqdeH" height="30" width="40" /></a>
 </p>
 
