@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Jaiman</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📝 I regularly write articles on [https://medium.com/@gauravjaiman1]
 
 - 📫 How to reach me **gauravjaiman1@gmail.com**
