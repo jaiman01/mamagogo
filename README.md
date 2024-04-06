@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Jaiman</h1>
-- 📝 I regularly write articles on [https://medium.com/@gauravjaiman1](https://medium.com/@gauravjaiman1)
+- 📝 I regularly write articles on [https://medium.com/@gauravjaiman1]
 
 - 📫 How to reach me **gauravjaiman1@gmail.com**
 
