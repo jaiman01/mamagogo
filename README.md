@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **gauravjaiman1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14s3x_-0rjXhOkMbfgw7dQtIVMD6bzZOO/view?usp=drive_link](https://drive.google.com/file/d/14s3x_-0rjXhOkMbfgw7dQtIVMD6bzZOO/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1A0UbjjhCPrd4lUwJE_NQgS3tPd4xegSg/view?usp=sharing](https://drive.google.com/file/d/1A0UbjjhCPrd4lUwJE_NQgS3tPd4xegSg/view?usp=sharing)
 
 - ⚡ Fun fact **I am serious**
 
